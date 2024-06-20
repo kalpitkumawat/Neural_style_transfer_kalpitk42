@@ -30,9 +30,9 @@ User Interaction: Offers flexibility with parameters to adjust style strength, c
 
 # Running the files
 
-- Just open the nst.ipynb file.
+- Just open the Neural_Style_Transfer.ipynb file.
+- you need to just paste the path of the content image and style image in the variables style_path and content_path from your drive.
 - You can also modify the values of the parameters and see the changes in your results.
-- To pass the paths of the input the imagees, you need to just paste the path of the content and style images in the variables path_style and path_content from your drive.
 
 
 ## dependencies
